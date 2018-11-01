@@ -1,0 +1,4 @@
+-----------------------------
+File : ./basic_test/no_space_after_label.s
+Our asm says:
+Error: This label does not exist : live

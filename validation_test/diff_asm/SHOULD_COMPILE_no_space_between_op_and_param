@@ -1,0 +1,4 @@
+-----------------------------
+File : ./basic_test/no_space_between_op_and_param.s
+Our asm says:
+Error: This label does not exist : live

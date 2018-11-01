@@ -1,0 +1,4 @@
+-----------------------------
+File : ./basic_test/comment_before_name.s
+Their asm says:
+Syntax error at token [TOKEN][001:013] ENDLINE

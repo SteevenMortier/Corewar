@@ -1,0 +1,35 @@
+error messages:
+[x]	Invalid parameter 1 type direct for instruction live (too many params)
+[x]	Syntax error at token [TOKEN][004:010] ENDLINE (, at the end of the line)
+[x]	Lexical error at [4:6] ('+' sign in front of the direct) ('-' is fine)
+[ ]	Syntax error at token [TOKEN][004:007] INSTRUCTION "a0"
+
+
+
+to-do:
+
+ft_calc_bytes
+1 bytes for opcode + arg_type_size (index 2btyes..) + OCP 1 byte (if exists)
+
+
+link labels to instr instead of lines
+fill arg_value
+
+print:
+header (magic number + name + comment)
+print instr
+
+check and clean:
+norm
+leaks
+segfaults
+mallocs protected
+
+error handling!
+
+
+
+Check names with newlines
+registre values
+2 names
+2 comments

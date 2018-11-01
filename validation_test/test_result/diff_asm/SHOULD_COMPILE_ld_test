@@ -1,0 +1,4 @@
+-----------------------------
+File : ./basic_test/ld_test.s
+Our asm says:
+Error: Wrong register number!
